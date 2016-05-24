@@ -6,6 +6,7 @@ public class TestmyDevOps {
 		// TODO Auto-generated method stub
 		System.out.println("Hello This is Ashok from DevOps");		
 		System.out.println("Hello This is Ashok from DevOps 123");
+		System.out.println("Hello This is Ashok from DevOps 123 $$$");
 		
 	}
 
