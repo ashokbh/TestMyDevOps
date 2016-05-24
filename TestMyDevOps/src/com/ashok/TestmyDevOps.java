@@ -8,6 +8,8 @@ public class TestmyDevOps {
 		System.out.println("Hello This is Ashok from DevOps 123");
 		System.out.println("Hello This is Ashok from DevOps 123 $$$");
 		System.out.println("Hello This is Ashok from DevOps 123 $$$ ###");
+		System.out.println("Hello This is Ashok from DevOps 123 $$$ ### %%%%");
+		
 		
 		
 	}
